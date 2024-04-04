@@ -11,7 +11,7 @@
   
   🔭 I’m currently seeking new opportunity
 
-  🙇‍♂️I’m working with **Spring Boot**
+  🙇‍♂️I’m working and learning with **Spring Boot and Apache Kafka**
   
 </div>
 
